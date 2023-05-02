@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Jamie Oliver",
+        "image_link": "https://example.com/images/jamie-oliver.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 8,
+        "likes": 15000
+    },
+    {
+        "id": 2,
+        "name": "Gordon Ramsay",
+        "image_link": "https://example.com/images/gordon-ramsay.jpg",
+        "years_of_experience": 7,
+        "number_of_recipes": 5,
+        "likes": 20000
+    },
+    {
+        "id": 3,
+        "name": "Nigella Lawson",
+        "image_link": "https://example.com/images/nigella-lawson.jpg",
+        "years_of_experience": 8,
+        "number_of_recipes": 6,
+        "likes": 12000
+    },
+    {
+        "id": 4,
+        "name": "Anthony Bourdain",
+        "image_link": "https://example.com/images/anthony-bourdain.jpg",
+        "years_of_experience": 5,
+        "number_of_recipes": 4,
+        "likes": 10000
+    },
+    {
+        "id": 5,
+        "name": "Ina Garten",
+        "image_link": "https://example.com/images/ina-garten.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 7,
+        "likes": 13000
+    },
+    {
+        "id": 6,
+        "name": "Emeril Lagasse",
+        "image_link": "https://example.com/images/emeril-lagasse.jpg",
+        "years_of_experience": 12,
+        "number_of_recipes": 9,
+        "likes": 17000
+    },
+    {
+        "id": 7,
+        "name": "Mario Batali",
+        "image_link": "https://example.com/images/mario-batali.jpg",
+        "years_of_experience": 8,
+        "number_of_recipes": 6,
+        "likes": 11000
+    },
+    {
+        "id": 8,
+        "name": "Bobby Flay",
+        "image_link": "https://example.com/images/bobby-flay.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 8,
+        "likes": 18000
+    },
+    {
+        "id": 9,
+        "name": "Julia Child",
+        "image_link": "https://example.com/images/julia-child.jpg",
+        "years_of_experience": 14,
+        "number_of_recipes": 3,
+        "likes": 8000
+    },
+    {
+        "id": 10,
+        "name": "Martha Stewart",
+        "image_link": "https://example.com/images/martha-stewart.jpg",
+        "years_of_experience": 11,
+        "number_of_recipes": 7,
+        "likes": 14000
+    },
+    {
+        "id": 11,
+        "name": "Rachael Ray",
+        "image_link": "https://example.com/images/rachael-ray.jpg",
+        "years_of_experience": 9,
+        "number_of_recipes": 4,
+        "likes": 10000
+    }
+]
